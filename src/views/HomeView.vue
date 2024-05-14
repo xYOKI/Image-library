@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import WaterfallFlow from '../components/WaterfallFlow.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <WaterfallFlow />
   </main>
 </template>
