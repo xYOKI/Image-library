@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "v3-waterfall": "^2.0.0-beta.2",
     "vue": "^3.4.21"
   },
   "devDependencies": {
